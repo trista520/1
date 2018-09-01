@@ -1,1 +1,1 @@
-i love data 
+i love data.
